@@ -1,5 +1,4 @@
-# AsianBanksRiskModelling
-# Portfolio Risk Management
+# Asian Banks Risk Modelling
 
 This repository contains a Python script for calculating and backtesting Value at Risk (VaR) and Conditional Value at Risk (CVaR) for a portfolio of assets using parametric, historical, and Monte Carlo simulation methods.
 
